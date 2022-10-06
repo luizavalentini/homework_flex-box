@@ -1,6 +1,6 @@
 
 .container{
-    background-color: aqua;
+    background-color: white;
     display: flex;
     flex-direction: column;
     height: 130vh;
@@ -25,7 +25,7 @@
   }
  .description{
    font-family:Georgia, 'Times New Roman', Times, serif;
-   color: white;
+   color: black;
    font-size: 18px;
 }
 h1{
